@@ -1,6 +1,6 @@
 ![plot](../img/DATAMIND_logo.jpg)
 
-Welcome to DATAMIND, UK's Health Data Research Hub for Mental Health. DATAMIND works to make best use the UK's rich mental health data and enable coordinated research. Detailled information about DATAMIND is available at [www.datamind.org.uk](www.datamind.org.uk). 
+Welcome to DATAMIND, UK's Health Data Research Hub for Mental Health. DATAMIND works to make best use of UK's rich mental health data and enable coordinated research. Detailled information about DATAMIND is available at [www.datamind.org.uk](www.datamind.org.uk). 
 
 If you have content you feel is relevant to our mission, please contact us at [datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk).
 
