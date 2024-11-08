@@ -22,11 +22,7 @@ You can find general information about GitHub Organizations [here](https://docs.
 
 # How can I be added to DATAMIND-UK?
 
-If you wish to be added as a member of this organization in GitHub, complete the [membership form](https://github.com/DATAMIND-UK/.github/raw/refs/heads/main/docs/membership_form.docx) and send it to [datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk) with subject *“[GitHub] Organization Access”*. 
-
-# How to attach your repository to DATAMIND?
-
-Once you are a member of DATAMIND-UK, you can [create](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) or [bring your existing repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account) in. By doing so, you will be *“transferring ownership”* of the repository to DATAMIND-UK. However, you will still own the repository from within the organization, and therefore will have total control over it, including deciding who has what access to it.
+If you wish to be added as a member of DATAMIND-UK, complete the [membership form](https://github.com/DATAMIND-UK/.github/raw/refs/heads/main/docs/membership_form.docx) and send it to [datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk) with subject *“[GitHub] Organization Access”*. 
 
 # Contact
 
