@@ -31,4 +31,3 @@ Once you are a member of DATAMIND-UK, you can [create](https://docs.github.com/e
 # Contact
 
 You can contact us at [datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk).
-
