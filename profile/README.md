@@ -38,8 +38,6 @@ You can find general information about GitHub Organizations [here](https://docs.
 
 :white_check_mark:**Early access:** Get early insights into projects shared within the organisation.
 
-:white_check_mark:**Structured collaboration:** Manage access and roles easily using GitHub Teams.
-
 ## Why contribute to DATAMIND-UK?
 
 Some of the reasons to host your projects in DATAMIND-UK instead of (only on) your personal GitHub account are:
@@ -52,6 +50,8 @@ Some of the reasons to host your projects in DATAMIND-UK instead of (only on) yo
 
 :white_check_mark: **Flexibile hosting:** Host your projects here or link to them elsewhere—your choice.
 
+:white_check_mark:**Structured collaboration:** Manage access and roles easily using GitHub Teams.
+
 # Get started
 
 ## New to Git and GitHub?
@@ -60,7 +60,7 @@ If you're new to Git or GitHub, we recommend starting with these resources:
 - [What is **GitHub** about?](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 - [GitHub's Guide to Contributing](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 - [GitHub Organizations Overview](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations).
-- Create a [**GitHub account**](https://github.com/).
+- Create a [**GitHub account**](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
 
 ## Join DATAMIND-UK now
 
