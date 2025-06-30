@@ -1,6 +1,6 @@
 ![plot](../img/DATAMIND_logo.jpg)
 
-:wave: Welcome to **DATAMIND**, UK's Health Data Research Hub for Mental Health, and **DATAMIND-UK**, its official GitHub Organization account. We bring together **researchers**, **developers**, **innovators**, and **people with lived experiences** who care about using data for better mental health. As we do so, GitHub helps us power :bar_chart:**open science**, :handshake:**collaboration** and :bulb:**innovation**.
+:wave: Welcome to **DATAMIND**, UK's Health Data Research Hub for Mental Health, and **DATAMIND-UK**, its official GitHub Organization account. We bring together **researchers**, **developers**, **innovators**, and **people with lived experiences** who care about using data to improve mental health. GitHub helps us power :bar_chart:**open science**, :handshake:**collaboration** and :bulb:**innovation**.
 
 Curious to get involved? Keep reading!
 
@@ -17,7 +17,7 @@ Curious to get involved? Keep reading!
 # DATAMIND 
 DATAMIND is the **UK’s Health Data Research Hub for Mental Health**. Our goal is to unlock the full potential of the UK’s rich mental health data to support coordinated research and improve mental health care.
 
-We aim to change how the NHS, researchers, charities, and industry share and use information that already exists—safely and responsibly. Covering all four UK nations, we offer a central infrastructure with :clipboard: data, :wrench: tools, and :bookmark_tabs: guidance to transform how mental health research is done.
+We aim to change how the NHS, researchers, charities, and industry share and use existing information safely, securely, and responsibly. Covering all four UK nations, we offer a central infrastructure with :clipboard: data, :wrench: tools, and :bookmark_tabs: guidance to transform how mental health research is done.
 
 Learn more at :globe_with_meridians:[www.datamind.org.uk](www.datamind.org.uk).
 
@@ -28,19 +28,25 @@ DATAMIND-UK is DATAMIND’s official GitHub Organization account. The term *orga
 
 ## DATAMIND-UK's mission
 
-DATAMIND-UK aims to bring together a community of researchers and developers working (or simply interested) on mental health data science, while fostering discussion, collaboration and open science. This space is open to anyone—whether you’re embedded in DATAMIND, part of a partner institution, or simply interested in mental health data science.
+DATAMIND-UK aims to bring together a community of researchers and developers working in (or simply interested on) mental health data science, while fostering discussion, collaboration and open science. This space is open to anyone—whether you’re embedded in DATAMIND, part of a partner institution, or simply interested in mental health data science.
 
 ## Why join DATAMIND-UK?
 
 You can find general information about GitHub Organizations [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). However, some of the main benefits we would like to highlight are:
 
-:white_check_mark:**Community:** Connect with others passionate about mental health data science.
+:white_check_mark:**Connect with the community:** Join discussions, issues, or teams to share ideas and feedback—even if you're not leading a project. As a listed member, your interest is visible and others can easily connect with you.
 
-:white_check_mark:**Early access:** Get early insights into projects shared within the organisation.
+:white_check_mark:**Early access:** Get notified when new tools, datasets, and research code are released. Access resources before they’re widely shared, and stay ahead of the curve in mental health data science.
+
+:white_check_mark:**Learn by observing real-world projects:** Explore live, open-source projects from active researchers and developers. See how others manage code, document projects, structure collaboration—all great for learning best practices.
+
+:white_check_mark:**Shape the direction of mental health data science:** Your voice matters. Whether you're a researcher, developer, clinician, or person with lived experience, joining DATAMIND-UK means being part of the conversation right from the kitchen—where collaboration, code, and change begins.
+
+:white_check_mark:**Support open mental health data science:** Open science needs more than code! User testing, documentation writing, design input, or community support are all valuable contributions.
 
 ## Why contribute to DATAMIND-UK?
 
-Some of the reasons to host your projects in DATAMIND-UK instead of (only on) your personal GitHub account are:
+Some of the reasons to host your projects in DATAMIND-UK instead of—or in addition to—your personal GitHub account are:
 
 :white_check_mark: **Visibility**: Share your work with a focused community of mental health data scientists and stakeholders.
 
@@ -48,7 +54,7 @@ Some of the reasons to host your projects in DATAMIND-UK instead of (only on) yo
 
 :white_check_mark: **Collaboration:** Connect with others who can support or enhance your project.
 
-:white_check_mark: **Flexibile hosting:** Host your projects here or link to them elsewhere—your choice.
+:white_check_mark: **Flexible hosting:** Host your projects here or link to them elsewhere—your choice.
 
 :white_check_mark:**Structured collaboration:** Manage access and roles easily using GitHub Teams.
 
