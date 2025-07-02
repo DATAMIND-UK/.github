@@ -1,6 +1,6 @@
 ![plot](../img/DATAMIND_logo.jpg)
 
-:wave: Welcome to **DATAMIND**, UK's Health Data Research Hub for Mental Health, and **DATAMIND-UK**, its official GitHub Organization account. We bring together **researchers**, **developers**, **innovators**, and **people with lived experiences** who care about using data to improve mental health. GitHub helps us power :bar_chart:**open science**, :handshake:**collaboration** and :bulb:**innovation**.
+:wave: Welcome to **DATAMIND**, UK's Health Data Research Hub for Mental Health, and **DATAMIND-UK**, its official GitHub Organisation account. We bring together **researchers**, **developers**, **innovators**, and **people with lived experiences** who care about using data to improve mental health. GitHub helps us power :bar_chart:**open science**, :handshake:**collaboration** and :bulb:**innovation**.
 
 Curious to get involved? Keep reading!
 
@@ -24,7 +24,7 @@ Learn more at :globe_with_meridians:[www.datamind.org.uk](www.datamind.org.uk).
 
 # DATAMIND-UK
 
-DATAMIND-UK is DATAMIND’s official GitHub Organization account. The term *organization* comes from GitHub’s lexicon and refers to the type of GitHub account, and not to DATAMIND’s structural organization as a Hub (team, partners, etc). Therefore, it is important to differentiate between DATAMIND-UK ([GitHub Organization account](https://github.com/DATAMIND-UK)) and DATAMIND ([the Hub itself](https://datamind.org.uk/about-us/)).
+DATAMIND-UK is DATAMIND’s official GitHub Organisation account. The term *organisation* comes from GitHub’s lexicon and refers to the type of GitHub account, and not to DATAMIND’s structural organisation as a Hub (team, partners, etc). Therefore, it is important to differentiate between DATAMIND-UK ([GitHub Organisation account](https://github.com/DATAMIND-UK)) and DATAMIND ([the Hub itself](https://datamind.org.uk/about-us/)).
 
 ## DATAMIND-UK's mission
 
@@ -32,7 +32,7 @@ DATAMIND-UK aims to bring together a community of researchers and developers wor
 
 ## Why join DATAMIND-UK?
 
-You can find general information about GitHub Organizations [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). However, some of the main benefits we would like to highlight are:
+You can find general information about GitHub Organisations [here](https://docs.github.com/en/organisations/collaborating-with-groups-in-organisations/about-organisations). However, some of the main benefits we would like to highlight are:
 
 :white_check_mark:**Connect with the community:** Join discussions, issues, or teams to share ideas and feedback—even if you're not leading a project. As a listed member, your interest is visible and others can easily connect with you.
 
@@ -65,12 +65,12 @@ If you're new to Git or GitHub, we recommend starting with these resources:
 - [What is **Git** about?](https://git-scm.com/about/branching-and-merging)
 - [What is **GitHub** about?](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 - [GitHub's Guide to Contributing](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
-- [GitHub Organizations Overview](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations).
+- [GitHub Organisations Overview](https://docs.github.com/en/organisations/collaborating-with-groups-in-organisations/about-organisations).
 - Create a [**GitHub account**](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
 
 ## Join DATAMIND-UK now
 
-:sparkles: Ready to join us? Complete the [membership form](https://github.com/DATAMIND-UK/.github/raw/refs/heads/main/docs/membership_form.docx) and send it to [datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk?subject=[GitHub]%20Organization%20Access) with subject *“[GitHub] Organization Access”*. 
+:sparkles: Ready to join us? Complete the [membership form](https://github.com/DATAMIND-UK/.github/raw/refs/heads/main/docs/membership_form.docx) and send it to [datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk?subject=[GitHub]%20Organisation%20Access) with subject *“[GitHub] Organisation Access”*. 
 
 # Contact us
 
