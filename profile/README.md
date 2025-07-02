@@ -32,7 +32,7 @@ DATAMIND-UK aims to bring together a community of researchers and developers wor
 
 ## Why join DATAMIND-UK?
 
-You can find general information about GitHub Organisations [here](https://docs.github.com/en/organisations/collaborating-with-groups-in-organisations/about-organisations). However, some of the main benefits we would like to highlight are:
+You can find general information about GitHub Organisations [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). However, some of the main benefits we would like to highlight are:
 
 :white_check_mark:**Connect with the community:** Join discussions, issues, or teams to share ideas and feedback—even if you're not leading a project. As a listed member, your interest is visible and others can easily connect with you.
 
@@ -65,7 +65,7 @@ If you're new to Git or GitHub, we recommend starting with these resources:
 - [What is **Git** about?](https://git-scm.com/about/branching-and-merging)
 - [What is **GitHub** about?](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 - [GitHub's Guide to Contributing](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
-- [GitHub Organisations Overview](https://docs.github.com/en/organisations/collaborating-with-groups-in-organisations/about-organisations).
+- [GitHub Organisations Overview](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations).
 - Create a [**GitHub account**](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
 
 ## Join DATAMIND-UK now
