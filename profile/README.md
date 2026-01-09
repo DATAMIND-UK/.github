@@ -61,7 +61,7 @@ Some of the reasons to host your projects in DATAMIND-UK instead of—or in addi
 # Get started
 
 ## New to Git and GitHub?
-If you're new to Git or GitHub, we recommend starting with these resources:
+If you're new to Git or GitHub and you are unsure about its benefits, we recommend starting with these resources:
 - [What is **Git** about?](https://git-scm.com/about/branching-and-merging)
 - [What is **GitHub** about?](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 - [GitHub's Guide to Contributing](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
@@ -70,7 +70,7 @@ If you're new to Git or GitHub, we recommend starting with these resources:
 
 ## Join DATAMIND-UK now
 
-:sparkles: Ready to join us? Complete the [membership form](https://github.com/DATAMIND-UK/.github/raw/refs/heads/main/docs/membership_form.docx) and send it to [datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk?subject=[GitHub]%20Organisation%20Access) with subject *“[GitHub] Organisation Access”*. 
+:sparkles: Ready to join us? Complete the [membership form](https://forms.office.com/Pages/ResponsePage.aspx?id=LrXKu76f1kOi859mxD3yaOu5NeArZNpPhwZSDlMb4Z1UQkdMTDRTUDZPVk5CN1VEOUlCQTY1SllUOS4u). 
 
 # Contact us
 
