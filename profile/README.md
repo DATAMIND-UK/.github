@@ -70,7 +70,10 @@ If you're new to Git or GitHub and you are unsure about its benefits, we recomme
 
 ## Join DATAMIND-UK now
 
-:sparkles: Ready to join us? Complete the [membership form](https://forms.office.com/Pages/ResponsePage.aspx?id=LrXKu76f1kOi859mxD3yaOu5NeArZNpPhwZSDlMb4Z1UQkdMTDRTUDZPVk5CN1VEOUlCQTY1SllUOS4u). 
+:sparkles: Ready to join us? Complete the [membership form](https://forms.office.com/Pages/ResponsePage.aspx?id=LrXKu76f1kOi859mxD3yaOu5NeArZNpPhwZSDlMb4Z1UQkdMTDRTUDZPVk5CN1VEOUlCQTY1SllUOS4u).
+
+> [!IMPORTANT]  
+> By participating in DATAMIND-UK, you acknowledge that you have read, understood, and agree to the [Privacy Policy](https://datamind.org.uk/privacy-policy/) and [Terms of Use](https://github.com/DATAMIND-UK/.github/blob/2eb43cea636702321e605213ea804fbbe4e6b32b/docs/DATAMIND-UK_Terms_of_Use.pdf).
 
 # Contact us
 
